@@ -21,7 +21,7 @@ const bot = new bot_1.Bot({
     }),
     config: new config_1.Config({
         prefix: "%",
-        token: "Njg3NjUyNjUyMTYyODc1Mzk0.Xmo4cA.axgGbI44abNtHHGB0yCY2DLrQtI"
+        token: ""
     })
 });
 command_manager_1.default.OnCommandsLoaded(() => {
